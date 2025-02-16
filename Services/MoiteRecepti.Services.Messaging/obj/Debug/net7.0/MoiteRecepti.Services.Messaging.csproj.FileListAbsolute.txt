@@ -1,0 +1,36 @@
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.deps.json
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.csproj.AssemblyReference.cache
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.AssemblyInfoInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.AssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\refint\MoiteRecepti.Services.Messaging.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\ref\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.deps.json
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.csproj.AssemblyReference.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.AssemblyInfoInputs.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.AssemblyInfo.cs
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\refint\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\ref\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.deps.json
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.csproj.AssemblyReference.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.AssemblyInfoInputs.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.AssemblyInfo.cs
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\refint\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Messaging\obj\Debug\net7.0\ref\MoiteRecepti.Services.Messaging.dll

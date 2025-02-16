@@ -1,0 +1,66 @@
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\appsettings.json
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.deps.json
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.runtimeconfig.json
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.dll
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.pdb
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Common.pdb
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.csproj.AssemblyReference.cache
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.AssemblyInfoInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.AssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.csproj.CoreCompileInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRec.AB07FB00.Up2Date
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.dll
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\refint\MoiteRecepti.Data.dll
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.pdb
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.genruntimeconfig.cache
+C:\Daniel Plamenov\MoiteRecepti\Data\MoiteRecepti.Data\obj\Debug\net7.0\ref\MoiteRecepti.Data.dll
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\appsettings.json
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.deps.json
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.runtimeconfig.json
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.dll
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.pdb
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Common.dll
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Common.pdb
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+E:\MyRecipes-master\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.csproj.AssemblyReference.cache
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.AssemblyInfoInputs.cache
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.AssemblyInfo.cs
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.csproj.CopyComplete
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.dll
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\refint\MoiteRecepti.Data.dll
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.pdb
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.genruntimeconfig.cache
+E:\MyRecipes-master\Data\MoiteRecepti.Data\obj\Debug\net7.0\ref\MoiteRecepti.Data.dll
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\appsettings.json
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.deps.json
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.runtimeconfig.json
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.dll
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.pdb
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Common.dll
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Common.pdb
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.csproj.AssemblyReference.cache
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.AssemblyInfoInputs.cache
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.AssemblyInfo.cs
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.csproj.CopyComplete
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.dll
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\refint\MoiteRecepti.Data.dll
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.pdb
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\MoiteRecepti.Data.genruntimeconfig.cache
+E:\MyRecipes-master1\Data\MoiteRecepti.Data\obj\Debug\net7.0\ref\MoiteRecepti.Data.dll

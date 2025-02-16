@@ -1,0 +1,1822 @@
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\appsettings.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\bundleconfig.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\libman.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.staticwebassets.runtime.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.staticwebassets.endpoints.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.exe
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.deps.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.runtimeconfig.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\mscorlib.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\netstandard.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.AppContext.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Buffers.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Configuration.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Console.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Drawing.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Memory.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Http.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Mail.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Ping.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Quic.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Requests.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Security.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Numerics.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ObjectModel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Claims.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Principal.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Json.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Transactions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ValueTuple.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Web.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Windows.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\WindowsBase.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Azure.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Azure.Identity.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Humanizer.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\SendGrid.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Data.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Common.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Data.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.csproj.AssemblyReference.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.AssemblyInfoInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.AssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.csproj.CoreCompileInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.RazorAssemblyInfo.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.RazorAssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\scopedcss\bundle\MoiteRecepti.Web.styles.css
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.MoiteRecepti.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.MoiteRecepti.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.MoiteRecepti.Web.props
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoiteRecepti.Web.props
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoiteRecepti.Web.props
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRec.7273C24C.Up2Date
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\refint\MoiteRecepti.Web.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.genruntimeconfig.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\obj\Debug\net7.0\ref\MoiteRecepti.Web.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.CodeDom.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\appsettings.Development.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\appsettings.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\bundleconfig.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\libman.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.staticwebassets.runtime.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.exe
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.deps.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.runtimeconfig.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\mscorlib.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\netstandard.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.AppContext.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Buffers.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Configuration.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Console.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Drawing.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Memory.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Http.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Mail.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Ping.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Quic.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Requests.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Security.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Numerics.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ObjectModel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Claims.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Principal.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Json.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Transactions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ValueTuple.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Web.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Windows.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\WindowsBase.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\AutoMapper.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Azure.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Azure.Identity.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Humanizer.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Build.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\SendGrid.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\StarkbankEcdsa.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.CodeDom.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Data.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Common.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Data.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.csproj.AssemblyReference.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.AssemblyInfoInputs.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.AssemblyInfo.cs
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.RazorAssemblyInfo.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.RazorAssemblyInfo.cs
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.MoiteRecepti.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.MoiteRecepti.Web.props
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoiteRecepti.Web.props
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoiteRecepti.Web.props
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.build.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.development.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\scopedcss\bundle\MoiteRecepti.Web.styles.css
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.csproj.CopyComplete
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\refint\MoiteRecepti.Web.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.genruntimeconfig.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web\obj\Debug\net7.0\ref\MoiteRecepti.Web.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\appsettings.Development.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\appsettings.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\bundleconfig.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\libman.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.staticwebassets.runtime.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.exe
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.deps.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.runtimeconfig.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\mscorlib.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\netstandard.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.AppContext.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Buffers.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Configuration.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Console.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Data.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Drawing.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Memory.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Http.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Mail.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Ping.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Quic.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Requests.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Security.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Numerics.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ObjectModel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Claims.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Principal.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.Json.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Transactions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.ValueTuple.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Web.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Windows.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\refs\WindowsBase.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\AutoMapper.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Azure.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Azure.Identity.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Humanizer.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Build.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\SendGrid.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\StarkbankEcdsa.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.CodeDom.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Data.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Common.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Data.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.Messaging.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Services.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.csproj.AssemblyReference.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.AssemblyInfoInputs.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.AssemblyInfo.cs
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.RazorAssemblyInfo.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.RazorAssemblyInfo.cs
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.MoiteRecepti.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.MoiteRecepti.Web.props
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MoiteRecepti.Web.props
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MoiteRecepti.Web.props
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.build.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\staticwebassets.development.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\scopedcss\bundle\MoiteRecepti.Web.styles.css
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.csproj.CopyComplete
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\refint\MoiteRecepti.Web.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\MoiteRecepti.Web.genruntimeconfig.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web\obj\Debug\net7.0\ref\MoiteRecepti.Web.dll

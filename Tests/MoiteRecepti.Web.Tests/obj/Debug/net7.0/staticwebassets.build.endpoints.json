@@ -1,0 +1,1236 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "_content/MoiteRecepti.Web/css/site.css",
+      "AssetFile": "_content/MoiteRecepti.Web/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lYb0aV00LoysTULgmRj8DxEWzbK0hsrmr8dh4bYJcgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:31:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lYb0aV00LoysTULgmRj8DxEWzbK0hsrmr8dh4bYJcgM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/css/site.fjrcf1xh8z.css",
+      "AssetFile": "_content/MoiteRecepti.Web/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lYb0aV00LoysTULgmRj8DxEWzbK0hsrmr8dh4bYJcgM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:31:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fjrcf1xh8z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lYb0aV00LoysTULgmRj8DxEWzbK0hsrmr8dh4bYJcgM="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/css/site.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/css/site.min.css",
+      "AssetFile": "_content/MoiteRecepti.Web/css/site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGHdZ65z5NTf/tGQaHcDi9uupHs31YwZ9EFGjn6nx+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 14:25:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGHdZ65z5NTf/tGQaHcDi9uupHs31YwZ9EFGjn6nx+Q="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/css/site.min.cwr2hd6t32.css",
+      "AssetFile": "_content/MoiteRecepti.Web/css/site.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGHdZ65z5NTf/tGQaHcDi9uupHs31YwZ9EFGjn6nx+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 14:25:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwr2hd6t32"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGHdZ65z5NTf/tGQaHcDi9uupHs31YwZ9EFGjn6nx+Q="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/css/site.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/favicon.28fw3rvlsy.ico",
+      "AssetFile": "_content/MoiteRecepti.Web/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EnTVIBXTnycky54Ap3OGNvLdclIrwRkEXKaKnJNr3S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:31:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "28fw3rvlsy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EnTVIBXTnycky54Ap3OGNvLdclIrwRkEXKaKnJNr3S0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/favicon.ico",
+      "AssetFile": "_content/MoiteRecepti.Web/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EnTVIBXTnycky54Ap3OGNvLdclIrwRkEXKaKnJNr3S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:31:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EnTVIBXTnycky54Ap3OGNvLdclIrwRkEXKaKnJNr3S0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/js/site.6b9nfc4n3r.js",
+      "AssetFile": "_content/MoiteRecepti.Web/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:31:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6b9nfc4n3r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/js/site.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/js/site.js",
+      "AssetFile": "_content/MoiteRecepti.Web/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:31:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/js/site.min.5ipweew5fc.js",
+      "AssetFile": "_content/MoiteRecepti.Web/js/site.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 14:25:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/js/site.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/js/site.min.js",
+      "AssetFile": "_content/MoiteRecepti.Web/js/site.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 14:25:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.2w652sptew.css",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "237950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrRkRhwdO2IcP2+1tni2UxqwpwTQ4b0Hjd03G4dHPbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2w652sptew"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrRkRhwdO2IcP2+1tni2UxqwpwTQ4b0Hjd03G4dHPbA="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "237950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IrRkRhwdO2IcP2+1tni2UxqwpwTQ4b0Hjd03G4dHPbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IrRkRhwdO2IcP2+1tni2UxqwpwTQ4b0Hjd03G4dHPbA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.min.00o7me0wi0.css",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wLz3iY/cO4e6vKZ4zRmo4+9XDpMcgKOvv/zEU3OMlRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "00o7me0wi0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wLz3iY/cO4e6vKZ4zRmo4+9XDpMcgKOvv/zEU3OMlRo="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wLz3iY/cO4e6vKZ4zRmo4+9XDpMcgKOvv/zEU3OMlRo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wLz3iY/cO4e6vKZ4zRmo4+9XDpMcgKOvv/zEU3OMlRo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.ib7told66d.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TqbemDLI4XxVoyOpffv+FTL5oPnnT0a/qWLJy2/ANeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ib7told66d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TqbemDLI4XxVoyOpffv+FTL5oPnnT0a/qWLJy2/ANeg="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TqbemDLI4XxVoyOpffv+FTL5oPnnT0a/qWLJy2/ANeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TqbemDLI4XxVoyOpffv+FTL5oPnnT0a/qWLJy2/ANeg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m81NDyncZVbr7v9E6qCWXwx/cwjuWDlHCMzi9pjMobA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m81NDyncZVbr7v9E6qCWXwx/cwjuWDlHCMzi9pjMobA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.min.xtzwxpr1me.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m81NDyncZVbr7v9E6qCWXwx/cwjuWDlHCMzi9pjMobA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtzwxpr1me"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m81NDyncZVbr7v9E6qCWXwx/cwjuWDlHCMzi9pjMobA="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/bootstrap/dist/js/bootstrap.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.03hjc8e09r.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03hjc8e09r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJbBMLGhYbXlPrrrddrSVmduyF6KEtbxEsYxw7hYZV4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48y08845bh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RFWFWIIPsjB4DucR4jqwxTWw13ZmtI+s6tVR2LJmZXk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7iojwaux1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24601"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzqfkb6aqo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/jquery-validation/dist/jquery.validate.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.min.qct3lgekgq.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qct3lgekgq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.ts1afbeun3.js",
+      "AssetFile": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 12:40:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ts1afbeun3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MoiteRecepti.Web/lib/jquery/dist/jquery.js"
+        }
+      ]
+    }
+  ]
+}

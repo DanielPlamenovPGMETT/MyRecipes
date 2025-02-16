@@ -1,0 +1,35 @@
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.deps.json
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.pdb
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.AssemblyInfoInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.AssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.csproj.CoreCompileInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\net7.0\refint\MoiteRecepti.Services.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.pdb
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\net7.0\ref\MoiteRecepti.Services.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.deps.json
+E:\MyRecipes-master\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.pdb
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.csproj.AssemblyReference.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.AssemblyInfoInputs.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.AssemblyInfo.cs
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\refint\MoiteRecepti.Services.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.pdb
+E:\MyRecipes-master\Services\MoiteRecepti.Services\obj\Debug\net7.0\ref\MoiteRecepti.Services.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.deps.json
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\bin\Debug\net7.0\MoiteRecepti.Services.pdb
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.csproj.AssemblyReference.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.AssemblyInfoInputs.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.AssemblyInfo.cs
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\refint\MoiteRecepti.Services.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\MoiteRecepti.Services.pdb
+E:\MyRecipes-master1\Services\MoiteRecepti.Services\obj\Debug\net7.0\ref\MoiteRecepti.Services.dll

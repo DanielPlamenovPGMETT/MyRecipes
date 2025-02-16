@@ -1,0 +1,13 @@
+{
+  "MoiteRecepti.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\MoiteRecepti.Common",
+  "MoiteRecepti.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common",
+  "MoiteRecepti.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data",
+  "MoiteRecepti.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models",
+  "MoiteRecepti.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data",
+  "MoiteRecepti.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services",
+  "MoiteRecepti.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping",
+  "MoiteRecepti.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging",
+  "MoiteRecepti.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web",
+  "MoiteRecepti.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure",
+  "MoiteRecepti.Web.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels"
+}

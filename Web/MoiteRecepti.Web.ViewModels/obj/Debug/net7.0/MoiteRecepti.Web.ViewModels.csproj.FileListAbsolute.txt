@@ -1,0 +1,57 @@
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.deps.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.AssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRec.CAA958FA.Up2Date
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\refint\MoiteRecepti.Web.ViewModels.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\ref\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.deps.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.csproj.AssemblyReference.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.AssemblyInfoInputs.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.AssemblyInfo.cs
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.csproj.CopyComplete
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\refint\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\ref\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.deps.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Common.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Models.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Models.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\bin\Debug\net7.0\MoiteRecepti.Data.Common.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.csproj.AssemblyReference.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.AssemblyInfoInputs.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.AssemblyInfo.cs
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.csproj.CopyComplete
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\refint\MoiteRecepti.Web.ViewModels.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\MoiteRecepti.Web.ViewModels.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.ViewModels\obj\Debug\net7.0\ref\MoiteRecepti.Web.ViewModels.dll

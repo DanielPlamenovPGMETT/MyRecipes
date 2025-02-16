@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o6/EMEW8PjbVXa46wqs7DaLDa63DUzjgmg9TRMMEKs1n6WNy/Vg7n0KuVZoRO5iOOp/KTqLHJI/mTeD/y6gKIQ==",
+  "success": true,
+  "projectFilePath": "E:\\MyRecipes-master1\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

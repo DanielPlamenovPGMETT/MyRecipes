@@ -1,0 +1,36 @@
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.deps.json
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.csproj.AssemblyReference.cache
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.AssemblyInfoInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.AssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\refint\MoiteRecepti.Services.Mapping.dll
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+C:\Daniel Plamenov\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\ref\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.deps.json
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.csproj.AssemblyReference.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.AssemblyInfoInputs.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.AssemblyInfo.cs
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\refint\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+E:\MyRecipes-master\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\ref\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.deps.json
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\bin\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.csproj.AssemblyReference.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.AssemblyInfoInputs.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.AssemblyInfo.cs
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\refint\MoiteRecepti.Services.Mapping.dll
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\MoiteRecepti.Services.Mapping.pdb
+E:\MyRecipes-master1\Services\MoiteRecepti.Services.Mapping\obj\Debug\net7.0\ref\MoiteRecepti.Services.Mapping.dll

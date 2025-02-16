@@ -1,0 +1,817 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Daniel Plamenov\\MoiteRecepti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data.models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|solutionrelative:data\\moiterecepti.data.models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web.viewmodels\\recipes\\recipeinlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|solutionrelative:web\\moiterecepti.web.viewmodels\\recipes\\recipeinlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.data\\irecipesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|solutionrelative:services\\moiterecepti.services.data\\irecipesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\recipes\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\recipes\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web.viewmodels\\recipes\\recipeslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|solutionrelative:web\\moiterecepti.web.viewmodels\\recipes\\recipeslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data.models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|solutionrelative:data\\moiterecepti.data.models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.data\\recipesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|solutionrelative:services\\moiterecepti.services.data\\recipesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data.models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|solutionrelative:data\\moiterecepti.data.models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.data\\categoriessevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|solutionrelative:services\\moiterecepti.services.data\\categoriessevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\recipes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\recipes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\migrations\\20250203141504_fixcategoryrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\migrations\\20250203141504_fixcategoryrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\migrations\\20220607060115_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\migrations\\20220607060115_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\migrations\\20250116141307_blablablarecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\migrations\\20250116141307_blablablarecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\migrations\\20250130142149_newrecipekiselozelesmeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\migrations\\20250130142149_newrecipekiselozelesmeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|solutionrelative:data\\moiterecepti.data.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\moiterecepti.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\moiterecepti.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\moiterecepti.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\moiterecepti.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\seeding\\applicationdbcontextseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\seeding\\applicationdbcontextseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data.models\\recipeingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FDB52F-52DC-48B2-86E1-0176377BB53F}|Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj|solutionrelative:data\\moiterecepti.data.models\\recipeingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web.viewmodels\\recipes\\recipeingrediantimputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|solutionrelative:web\\moiterecepti.web.viewmodels\\recipes\\recipeingrediantimputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web.viewmodels\\recipes\\createrecipeinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|solutionrelative:web\\moiterecepti.web.viewmodels\\recipes\\createrecipeinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.data\\igetcountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|solutionrelative:services\\moiterecepti.services.data\\igetcountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.data\\models\\countsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|solutionrelative:services\\moiterecepti.services.data\\models\\countsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.data\\getcountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|solutionrelative:services\\moiterecepti.services.data\\getcountsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.data\\icategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|solutionrelative:services\\moiterecepti.services.data\\icategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web.viewmodels\\moiterecepti.web.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|solutionrelative:web\\moiterecepti.web.viewmodels\\moiterecepti.web.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web.viewmodels\\home\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|solutionrelative:web\\moiterecepti.web.viewmodels\\home\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web.viewmodels\\administration\\dashboard\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B7AACB-9C85-4409-8D4B-95A67D0DFFF7}|Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj|solutionrelative:web\\moiterecepti.web.viewmodels\\administration\\dashboard\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.data\\moiterecepti.services.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D39C126-3FB5-4B26-B08C-1BF48EFFA23E}|Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj|solutionrelative:services\\moiterecepti.services.data\\moiterecepti.services.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\areas\\administration\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\areas\\administration\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\seeding\\categoriesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\seeding\\categoriesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data\\seeding\\iseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B844ECB-E845-49A6-8B31-85E577933598}|Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj|solutionrelative:data\\moiterecepti.data\\seeding\\iseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D59508-CF8B-4656-A344-396C530BB9DF}|Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj|c:\\daniel plamenov\\moiterecepti\\data\\moiterecepti.data.common\\moiterecepti.data.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0D59508-CF8B-4656-A344-396C530BB9DF}|Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj|solutionrelative:data\\moiterecepti.data.common\\moiterecepti.data.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|c:\\daniel plamenov\\moiterecepti\\web\\moiterecepti.web\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90D1067-FE4C-400E-BA78-5413E30AB9ED}|Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj|solutionrelative:web\\moiterecepti.web\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FD7FA-0453-4FE1-9A29-C6E1D8B45C3D}|Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj|c:\\daniel plamenov\\moiterecepti\\services\\moiterecepti.services.mapping\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415FD7FA-0453-4FE1-9A29-C6E1D8B45C3D}|Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj|solutionrelative:services\\moiterecepti.services.mapping\\imapfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecipesListViewModel.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipesListViewModel.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipesListViewModel.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipesListViewModel.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipesListViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:08:19.142Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Recipes\\All.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\Recipes\\All.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Recipes\\All.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\Recipes\\All.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T12:33:19.806Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:41:30.023Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeInListViewModel.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipeInListViewModel.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipeInListViewModel.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipeInListViewModel.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipeInListViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:18:27.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRecipesService.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\IRecipesService.cs",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Data\\IRecipesService.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\IRecipesService.cs",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Data\\IRecipesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:44:36.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data.Models\\Ingredient.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\Ingredient.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data.Models\\Ingredient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:35:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\Image.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data.Models\\Image.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\Image.cs*",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data.Models\\Image.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:04:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecipesService.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\RecipesService.cs",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Data\\RecipesService.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\RecipesService.cs",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Data\\RecipesService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:47:29.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data.Models\\Recipe.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\Recipe.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data.Models\\Recipe.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:24:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesSevice.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\CategoriesSevice.cs",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Data\\CategoriesSevice.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\CategoriesSevice.cs",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Data\\CategoriesSevice.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:26:27.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T12:54:52.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20220607060115_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Migrations\\20220607060115_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\Migrations\\20220607060115_InitialCreate.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Migrations\\20220607060115_InitialCreate.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\Migrations\\20220607060115_InitialCreate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:12:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Recipes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\Recipes\\Create.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Recipes\\Create.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\Recipes\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T13:54:30.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250203141504_FixCategoryRelationship.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Migrations\\20250203141504_FixCategoryRelationship.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\Migrations\\20250203141504_FixCategoryRelationship.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Migrations\\20250203141504_FixCategoryRelationship.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\Migrations\\20250203141504_FixCategoryRelationship.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:15:05.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250116141307_BlaBlaBlaRecipe.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Migrations\\20250116141307_BlaBlaBlaRecipe.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\Migrations\\20250116141307_BlaBlaBlaRecipe.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Migrations\\20250116141307_BlaBlaBlaRecipe.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\Migrations\\20250116141307_BlaBlaBlaRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:12:32.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250130142149_NewRecipeKiseloZelesMeso.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Migrations\\20250130142149_NewRecipeKiseloZelesMeso.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\Migrations\\20250130142149_NewRecipeKiseloZelesMeso.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Migrations\\20250130142149_NewRecipeKiseloZelesMeso.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\Migrations\\20250130142149_NewRecipeKiseloZelesMeso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:12:29.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoiteRecepti.Data.csproj",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T12:58:26.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MoiteRecepti.Web.csproj",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T12:58:13.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RecipeIngredient.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\RecipeIngredient.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data.Models\\RecipeIngredient.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\RecipeIngredient.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data.Models\\RecipeIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:54:03.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:20:30.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\Category.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data.Models\\Category.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\Category.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data.Models\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:29:04.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Startup.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Startup.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Startup.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:52:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextSeeder.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Seeding\\ApplicationDbContextSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\Seeding\\ApplicationDbContextSeeder.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Seeding\\ApplicationDbContextSeeder.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\Seeding\\ApplicationDbContextSeeder.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:31:06.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RecipeIngrediantImputModel.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipeIngrediantImputModel.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipeIngrediantImputModel.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipeIngrediantImputModel.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web.ViewModels\\Recipes\\RecipeIngrediantImputModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:31:29.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGetCountsService.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\IGetCountsService.cs",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Data\\IGetCountsService.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\IGetCountsService.cs",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Data\\IGetCountsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:55:05.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateRecipeInputModel.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Recipes\\CreateRecipeInputModel.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web.ViewModels\\Recipes\\CreateRecipeInputModel.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Recipes\\CreateRecipeInputModel.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web.ViewModels\\Recipes\\CreateRecipeInputModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:36:51.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Program.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Program.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:10:51.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:17:04.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CountsDto.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\Models\\CountsDto.cs",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Data\\Models\\CountsDto.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\Models\\CountsDto.cs",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Data\\Models\\CountsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:46:24.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetCountsService.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\GetCountsService.cs",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Data\\GetCountsService.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\GetCountsService.cs",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Data\\GetCountsService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:05:38.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategoriesService.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\ICategoriesService.cs",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Data\\ICategoriesService.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\ICategoriesService.cs",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Data\\ICategoriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:25:58.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MoiteRecepti.Web.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T12:16:04.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:35:04.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T12:40:05.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Home\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web.ViewModels\\Home\\IndexViewModel.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Home\\IndexViewModel.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web.ViewModels\\Home\\IndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:48:29.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:09:22.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T13:03:16.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T12:58:59.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T12:58:13.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\9.0.102\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-22T12:20:52.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Administration\\Dashboard\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web.ViewModels\\Administration\\Dashboard\\IndexViewModel.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\Administration\\Dashboard\\IndexViewModel.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web.ViewModels\\Administration\\Dashboard\\IndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:40:08.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MoiteRecepti.Services.Data.csproj",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T12:58:32.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Areas\\Administration\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Areas\\Administration\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Areas\\Administration\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Areas\\Administration\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T14:36:35.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:26:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CategoriesSeeder.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Seeding\\CategoriesSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\Seeding\\CategoriesSeeder.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Seeding\\CategoriesSeeder.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\Seeding\\CategoriesSeeder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:45:39.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ISeeder.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Seeding\\ISeeder.cs",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data\\Seeding\\ISeeder.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data\\Seeding\\ISeeder.cs",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data\\Seeding\\ISeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:50:22.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MoiteRecepti.Data.Common.csproj",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
+              "RelativeDocumentMoniker": "Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
+              "RelativeToolTip": "Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T12:06:24.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Web\\MoiteRecepti.Web\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Web\\MoiteRecepti.Web\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Web\\MoiteRecepti.Web\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:19:58.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IMapFrom.cs",
+              "DocumentMoniker": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\IMapFrom.cs",
+              "RelativeDocumentMoniker": "Services\\MoiteRecepti.Services.Mapping\\IMapFrom.cs",
+              "ToolTip": "C:\\Daniel Plamenov\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\IMapFrom.cs",
+              "RelativeToolTip": "Services\\MoiteRecepti.Services.Mapping\\IMapFrom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:14:08.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

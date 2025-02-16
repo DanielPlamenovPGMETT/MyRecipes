@@ -1,0 +1,35 @@
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.deps.json
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.AssemblyInfo.cs
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\refint\MoiteRecepti.Web.Infrastructure.dll
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+C:\Daniel Plamenov\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\ref\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.deps.json
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.csproj.AssemblyReference.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.AssemblyInfoInputs.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.AssemblyInfo.cs
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\refint\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+E:\MyRecipes-master\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\ref\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.deps.json
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.csproj.AssemblyReference.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.AssemblyInfoInputs.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.AssemblyInfo.cs
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\refint\MoiteRecepti.Web.Infrastructure.dll
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\MoiteRecepti.Web.Infrastructure.pdb
+E:\MyRecipes-master1\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net7.0\ref\MoiteRecepti.Web.Infrastructure.dll
